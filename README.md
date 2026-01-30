@@ -11,3 +11,13 @@ Easy to use
 Transparent in its assumptions
 
 Suitable for everyday users
+
+# Key Features
+
+Interactive web interface built with Streamlit
+
+Calorie burn estimation based on workout details
+
+Simple and clean user experience
+
+Fast response and lightweight execution
