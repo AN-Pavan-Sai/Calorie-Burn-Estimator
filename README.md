@@ -1,1 +1,1 @@
-# Calorie-Burn-Tracker
+# FitPredict – Calorie Burn Estimation App
