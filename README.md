@@ -27,3 +27,13 @@ Fast response and lightweight execution
 The app estimates calorie burn by identifying patterns in historical workout data and relating them to user-provided inputs. The focus is on providing reasonable approximations, not exact values.
 
 Because individual effort levels and conditions can vary, results are presented as estimates rather than precise measurements.
+
+# Tech Stack
+
+Python
+
+Streamlit
+
+pandas
+
+Plotly
