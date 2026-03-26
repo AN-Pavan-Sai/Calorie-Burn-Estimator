@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import PredictionForm from "./components/PredictionForm";
 import ResultDisplay from "./components/ResultDisplay";
 import "./index.css";
-const API_URL = "http://localhost:5001";
+const API_URL = "https://calorie-burn-estimator.onrender.com";
 function App() {
   const [result, setResult] = useState(null);
   const [formData, setFormData] = useState(null);
