@@ -39,8 +39,7 @@ function App() {
         <h1 className="app-header__title">Calorie Burn Predictor</h1>
         <p className="app-header__subtitle">
           Enter your workout details and our AI model will predict how many
-          calories you'll burn. Powered by a Random Forest model trained on real
-          gym data.
+          calories you'll burn.
         </p>
       </header>
       <PredictionForm onPredict={handlePredict} isLoading={isLoading} />
