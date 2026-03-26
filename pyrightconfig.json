@@ -1,0 +1,14 @@
+{
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Darwin",
+  "venvPath": "",
+  "executionEnvironments": [
+    {
+      "root": "backend",
+      "pythonVersion": "3.12",
+      "extraPaths": [
+        "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages"
+      ]
+    }
+  ]
+}
